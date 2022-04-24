@@ -7,18 +7,19 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The lab defines two classes (Surface and Rectangle) inside modules. The classes use instance variables and methods to work with the provided driver code in main.py.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 1/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ No known bugs or incomplete parts. 
 
 ## REFERENCES:
- < List any outside resources used >
+https://blog.codinghorror.com/understanding-model-view-controller/
+https://replit.com/@Steven_AA/AffectionateDopeyNormalform#main.py
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Added myimage.png to work with main.py. Not sure if repl.it is able to render image or not.  
